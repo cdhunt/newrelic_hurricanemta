@@ -80,9 +80,7 @@
     <None Include="newrelic_hurricanemta.exe.ps1.sample">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Include="newrelic_hurricanemta.exe.ps1">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
+    <None Include="newrelic_hurricanemta.exe.ps1" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
