@@ -1,0 +1,6 @@
+﻿Add-ConfigItem NewRelicAccountID '123456'
+Add-ConfigItem NewRelicApiKey 'abcZXC2-0eqw23'
+Add-ConfigItem MtaAccountRoot 'C:\Program Files\Hurricane MTA Server\accounts'
+
+[int[]] $accountList = @(1001)
+Add-ConfigItem MtaAccountList $accountList
