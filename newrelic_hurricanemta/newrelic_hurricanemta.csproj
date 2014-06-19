@@ -53,7 +53,7 @@
     </Reference>
     <Reference Include="ConfigPS, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\packages\ConfigPS.dll.1.0\lib\ConfigPS.dll</HintPath>
+      <HintPath>..\packages\ConfigPS.dll.2.0\lib\net40\ConfigPS.dll</HintPath>
     </Reference>
     <Reference Include="RestSharp">
       <HintPath>..\packages\RestSharp.104.4.0\lib\net4\RestSharp.dll</HintPath>
